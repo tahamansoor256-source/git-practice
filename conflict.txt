@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-Line from conflict-three branch
->>>>>>> conflict-three
+Line from main branch final
