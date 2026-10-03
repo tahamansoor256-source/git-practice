@@ -1,1 +1,1 @@
-Line from conflict-text branch
+Line from main branch
