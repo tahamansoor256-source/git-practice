@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Line from conflict-three branch
+>>>>>>> conflict-three
